@@ -1,4 +1,5 @@
-Mini SQLite project : restaurant
+SQLite project : restaurant
 สร้าง table จำลองเกี่ยวกับร้านอาหารเพื่อดึงข้อมูลออกมาวิเคราะห์โดยใช้ SQLite
+โดยโปรเจคนี้เป็นส่วนหนึ่งของ Data Science Bootcamp ของ DataRockie School
 
 https://replit.com/@TNatthaPol/bootcampbatch08sqlrestaurant?v=1
